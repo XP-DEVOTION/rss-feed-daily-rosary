@@ -3,7 +3,7 @@
     "title": "Daily Rosary",
     "link": "https://dailyrosary.cf/",
     "language": "en-us",
-    "description": "Welcome to the Daily Rosary Web App! The Daily Rosary is a web application designed to display the daily Rosary mystery automatically. Install it from your browser and listen to prayers hands-free.",
+    "description": "The Daily Rosary Playlist contains ten prerecorded Rosary prayers—one for each day’s traditional mystery. These videos stay the same, but they make it easy to pray the correct mystery for any day of the week.📅 Daily Mystery Schedule🌼 Monday – Joyful😔 Tuesday – Sorrowful🌞 Wednesday – Glorious💡 Thursday – Luminous😔 Friday – Sorrowful🌼 Saturday – Joyful⛪ Sunday – 🌞 Ordinary Time – Glorious⛪ Sunday – 🕯️ Advent – Joyful⛪ Sunday – 🎄 Christmas – Joyful⛪ Sunday – ✝️ Lent – SorrowfulBut if you use the DailyRosary.cf web app, the correct mystery is automatically selected for you each day, including the seasonal changes on Sundays. This playlist simply provides the full set of Rosary prayers for you to pray whenever you choose.💻 Developers and prayer leaders: explore therosaryapi.cf to integrate Rosary schedules and mysteries directly into your own apps, sites, or projects.👉 Subscribe to XP‑Devotion to explore projects, listen to audio prayers, and support the mission: My code. Your prayer. Your app.",
     "feedUrl": "https://rss-feed-daily-rosary.vercel.app/api/rss",
     "author": "Eric Kouassi",
     "summary": "Your companion for daily Rosary prayers, providing the mystery of the day with ease and convenience.",
