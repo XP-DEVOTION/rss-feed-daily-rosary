@@ -3,7 +3,7 @@
     "title": "Daily Rosary",
     "link": "https://dailyrosary.cf/",
     "language": "en-us",
-    "description": "The Daily Rosary Podcast offers ten prerecorded Rosary prayers—one for each day’s traditional mystery. No new audio is published daily; instead, you simply choose the mystery for the day and pray along whenever you like. Sundays follow the Church’s seasons: Joyful in Advent and Christmas, Sorrowful in Lent, and Glorious in Easter and Ordinary Time. For a guided experience with the correct mystery selected for you each day, visit DailyRosary.cf. It’s a simple, steady way to stay rooted in prayer wherever you listen.",
+    "description": "The Daily Rosary Podcast offers ten prerecorded Rosary prayers—one for each day’s traditional mystery. No new audio is published daily; instead, you simply choose the mystery for the day and pray along whenever you like. Sundays follow the Church’s seasons: Joyful in Advent and Christmas, Sorrowful in Lent, and Glorious in Easter and Ordinary Time. For a guided experience that automatically selects the correct mystery each day, visit DailyRosary.cf or use the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary Whether you listen on your favorite podcast platform or pray through the app, it’s a simple, steady way to stay rooted in daily prayer.",
     "feedUrl": "https://rss-feed-daily-rosary.vercel.app/api/rss",
     "author": "Eric Kouassi",
     "summary": "Your companion for daily Rosary prayers, providing the mystery of the day with ease and convenience.",
