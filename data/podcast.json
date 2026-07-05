@@ -3,7 +3,7 @@
     "title": "Daily Rosary",
     "link": "https://dailyrosary.cf/",
     "language": "en-us",
-    "description": "The Daily Rosary Podcast offers ten prerecorded Rosary prayers—one for each day’s traditional mystery. No new audio is published daily; instead, you simply choose the mystery for the day and pray along whenever you like. Sundays follow the Church’s seasons: Joyful in Advent and Christmas, Sorrowful in Lent, and Glorious in Easter and Ordinary Time. For a guided experience that automatically selects the correct mystery each day, visit DailyRosary.cf or use the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary Whether you listen on your favorite podcast platform or pray through the app, it’s a simple, steady way to stay rooted in daily prayer.",
+    "description": "The Daily Rosary Podcast offers ten prerecorded Rosary prayers—one for each day’s traditional mystery. No new audio is published daily; instead, you simply choose the mystery for the day and pray along whenever you like. Sundays follow the Church’s seasons: Joyful in Advent and Christmas, Sorrowful in Lent, and Glorious in Easter and Ordinary Time. For a guided experience that automatically selects the correct mystery each day, visit https://dailyrosary.cf/ or use the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary Whether you listen on your favorite podcast platform or pray through the app, it’s a simple, steady way to stay rooted in daily prayer.",
     "feedUrl": "https://rss-feed-daily-rosary.vercel.app/api/rss",
     "author": "Eric Kouassi",
     "summary": "Your companion for daily Rosary prayers, providing the mystery of the day with ease and convenience.",
@@ -29,7 +29,7 @@
      {
       "title": "Monday Rosary — The Joyful Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Monday for a serene meditation on the Joyful Mysteries of the Rosary, celebrating Christ’s arrival and God’s humble love.",
+      "description": "Join us this Monday for a peaceful meditation on the Joyful Mysteries of the Rosary. These mysteries invite you to reflect on Christ’s arrival and the humble love God reveals through the early life of Jesus. Press play, pray along, and let the Joyful Mysteries guide your heart into gratitude and quiet devotion. If you prefer a guided experience that automatically selects the correct mystery for the day, you can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer bring you calm, clarity, and closeness to Christ.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/monday_joyful_mysteries.mp3",
       "audioLength": 13520896,
       "audioType": "audio/mpeg",
@@ -53,7 +53,7 @@
     {
       "title": "Tuesday Rosary — The Sorrowful Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Tuesday for a heartfelt meditation on the Sorrowful Mysteries of the Rosary, entering into Christ’s passion and the depth of His love: 1) The Agony in the Garden 2) The Scourging at the Pillar 3) The Crowning with Thorns 4) The Carrying of the Cross 5) The Crucifixion These mysteries invite us to contemplate Christ’s suffering, the cost of redemption, and the mercy offered to all. Deepen your prayer experience with the Daily Rosary website: https://dailyrosary.cf/ — featuring audio guidance and a listening streak tracker to support your spiritual journey.",
+      "description": "Join us this Tuesday for a heartfelt meditation on the Sorrowful Mysteries of the Rosary. These five mysteries draw us into Christ’s Passion and the depth of His love: The Agony in the Garden The Scourging at the Pillar The Crowning with Thorns The Carrying of the Cross The Crucifixion As you pray along, these mysteries invite you to contemplate Christ’s suffering, the cost of our redemption, and the mercy offered to all. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer draw you closer to Christ and deepen your trust in His love.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/tuesday_sorrowful_mysteries.mp3",
       "audioLength": 13343744,
       "audioType": "audio/mpeg",
@@ -77,7 +77,7 @@
     {
       "title": "Wednesday Rosary — The Glorious Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Wednesday as we pray the Glorious Mysteries of the Rosary, celebrating Christ’s triumph and the hope poured out upon the world: 1) The Resurrection 2) The Ascension 3) The Descent of the Holy Spirit 4) The Assumption 5) The Coronation of Mary.",
+      "description": "Join us this Wednesday as we pray the Glorious Mysteries of the Rosary, celebrating Christ’s triumph and the hope poured out upon the world: The Resurrection The Ascension The Descent of the Holy Spirit The Assumption The Coronation of Mary These mysteries invite us to rejoice in Christ’s victory over sin and death, the gift of the Holy Spirit, and the promise of eternal life shared with all who believe. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer fill you with hope, joy, and renewed trust in God’s promises.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/wednesday_glorious_mysteries.mp3",
       "audioLength": 13298688,
       "audioType": "audio/mpeg",
@@ -101,7 +101,7 @@
     {
       "title": "Thursday Rosary — The Luminous Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Thursday as we meditate on the Luminous Mysteries of the Rosary, contemplating the public ministry of Christ and the light He brings into the world.",
+      "description": "Join us this Thursday as we meditate on the Luminous Mysteries of the Rosary, contemplating the public ministry of Christ and the light He brings into the world. These mysteries reveal His teaching, His miracles, and the radiant love that calls every heart closer to God. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer strengthen your faith and fill your day with Christ’s light.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/thursday_luminous_mysteries.mp3",
       "audioLength": 13364224,
       "audioType": "audio/mpeg",
@@ -125,7 +125,7 @@
     {
       "title": "Friday Rosary — The Sorrowful Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Friday as we return to the Sorrowful Mysteries of the Rosary, entering more deeply into Christ’s Passion and the love that led Him to the Cross.",
+      "description": "Join us this Friday as we return to the Sorrowful Mysteries of the Rosary, entering more deeply into Christ’s Passion and the love that led Him to the Cross. These mysteries invite us to reflect on His suffering, His sacrifice, and the mercy He offers to the world through His self‑giving love. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer deepen your compassion, strengthen your faith, and draw you closer to Christ.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/friday_sorrowful_mysteries.mp3",
       "audioLength": 13207552,
       "audioType": "audio/mpeg",
@@ -149,7 +149,7 @@
     {
       "title": "Saturday Rosary — The Joyful Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Saturday as we pray the Joyful Mysteries of the Rosary, celebrating the beginnings of salvation and the humble love of God revealed through Mary.",
+      "description": "Join us this Saturday as we pray the Joyful Mysteries of the Rosary, celebrating the beginnings of salvation and the humble love of God revealed through Mary. These mysteries invite us to rejoice in the Incarnation, the Visitation, the Nativity, the Presentation, and the Finding of Jesus in the Temple. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer fill you with joy, gratitude, and a deeper appreciation for God’s love.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/saturday_joyful_mysteries.mp3",
       "audioLength": 13453312,
       "audioType": "audio/mpeg",
@@ -173,7 +173,7 @@
     {
       "title": "Sunday Rosary — The Glorious Mysteries",
       "link": "https://dailyrosary.cf/",
-      "description": "Join us this Sunday as we pray the Glorious Mysteries of the Rosary, celebrating the victory of Christ and the promise of eternal life.",
+      "description": "Join us this Sunday as we pray the Glorious Mysteries of the Rosary, celebrating the victory of Christ and the promise of eternal life. These mysteries invite us to reflect on the Resurrection, the Ascension, the Descent of the Holy Spirit, the Communion of Saints, and the Coronation of the Blessed Virgin Mary. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer deepen your faith and fill your day with Christ’s light.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/sunday_glorious_mysteries.mp3",
       "audioLength": 13225984,
       "audioType": "audio/mpeg",
@@ -197,7 +197,7 @@
     {
       "title": "Sunday Rosary — The Joyful Mysteries (Advent)",
       "link": "https://dailyrosary.cf/",
-      "description": "During the holy season of Advent, the Church invites us to reflect on the Joyful Mysteries each Sunday, preparing our hearts for the coming of Christ.",
+      "description": "During the holy season of Advent, the Church invites us to reflect on the Joyful Mysteries each Sunday, preparing our hearts for the coming of Christ. These mysteries draw us into the hope, humility, and quiet anticipation that mark this sacred season of waiting. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer fill your Advent with peace, hope, and joyful expectation.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/sunday_joyful_mysteries_advent.mp3",
       "audioLength": 13427712,
       "audioType": "audio/mpeg",
@@ -221,7 +221,7 @@
     {
       "title": "Sunday Rosary — The Joyful Mysteries (Christmas Season)",
       "link": "https://dailyrosary.cf/",
-      "description": "During the Christmas season, the Church prays the Joyful Mysteries on Sundays, celebrating the birth of Christ and the radiant love revealed in the Incarnation.",
+      "description": "During the Christmas season, the Church prays the Joyful Mysteries on Sundays, celebrating the birth of Christ and the radiant love revealed in the Incarnation. These mysteries invite us to rejoice in God made flesh, the humility of the Holy Family, and the joy that fills the world through the coming of our Savior. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring audio prayer, a listening streak tracker, and a simple way to stay rooted in your spiritual journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer fill your Christmas season with peace, joy, and the warmth of Christ’s love.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/sunday_joyful_mysteries_christmas.mp3",
       "audioLength": 13466624,
       "audioType": "audio/mpeg",
@@ -244,7 +244,7 @@
        {
       "title": "Sunday Rosary — The Sorrowful Mysteries (Lent)",
       "link": "https://dailyrosary.cf/",
-      "description": "During the penitential season of Lent, the Church prays the Sorrowful Mysteries on Sundays, entering deeply into Christ’s Passion and the mercy poured out for our salvation: 1) The Agony in the Garden 2) The Scourging at the Pillar 3) The Crowning with Thorns 4) The Carrying of the Cross 5) The Crucifixion Let these mysteries draw you into repentance, compassion, and renewed trust in God’s love. Pray along with the Daily Rosary website: https://dailyrosary.cf/ — featuring peaceful audio guidance and a listening streak tracker for your Lenten journey. 🙏✨",
+      "description": "During the penitential season of Lent, the Church prays the Sorrowful Mysteries on Sundays, entering deeply into Christ’s Passion and the mercy poured out for our salvation: The Agony in the Garden The Scourging at the Pillar The Crowning with Thorns The Carrying of the Cross The Crucifixion Let these mysteries draw you into repentance, compassion, and renewed trust in God’s love. For a guided experience that selects the correct mystery each day, visit https://dailyrosary.cf/ — featuring peaceful audio prayer and a listening streak tracker to support your Lenten journey. You can also pray through the Daily Rosary App on Android: https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary May this prayer deepen your devotion and lead you closer to Christ during this sacred season.",
       "audioUrl": "https://op3.dev/e/archive.org/download/daily-rosary-collection/sunday_sorrowful_mysteries_lent.mp3",
       "audioLength": 13307904,
       "audioType": "audio/mpeg",
